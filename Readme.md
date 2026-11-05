@@ -30,7 +30,7 @@ Desarrollar programas en **Java** que permitan **crear y escribir información e
 
 | # | Integrante |
 |:-:|:---|
-| 01 | **Dávila Hernández Gabriel Marcelo** — Analista. |
+| 01 | **Dávila Hernández Gabriel Marcelo** — Programador. |
 
 ---
 
