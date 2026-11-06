@@ -1,0 +1,15 @@
+Producto: Mouse
+Precio: $10.0
+Cantidad: 5
+Valor total: $50.0
+
+Producto: Teclado
+Precio: $15.0
+Cantidad: 3
+Valor total: $45.0
+
+Producto: Monitor
+Precio: $120.0
+Cantidad: 2
+Valor total: $240.0
+
