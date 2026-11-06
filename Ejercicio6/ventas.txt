@@ -1,0 +1,12 @@
+Producto: Laptop
+Subtotal: $500.0
+Descuento: $50.0
+Total: $450.0
+
+Producto: Mouse
+Subtotal: $20.0
+Descuento: $0.0
+Total: $20.0
+
+TOTAL DE VENTAS: $470.0
+
