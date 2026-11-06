@@ -3,7 +3,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Ejercicio3 {
+public class SistemaRegistro {
 
     public static void main(String[] args) {
 
