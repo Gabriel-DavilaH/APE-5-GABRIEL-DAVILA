@@ -1,0 +1,9 @@
+Nombre: Juan
+Calificacion: 8.5
+
+Nombre: Maria
+Calificacion: 9.2
+
+Nombre: Pedro
+Calificacion: 7.8
+
